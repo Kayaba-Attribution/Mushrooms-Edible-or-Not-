@@ -102,9 +102,9 @@ The poisonous chance plot function uses rates, if the data is not balanced or va
 
 
 Resources Used:
-https://en.wikipedia.org/wiki/Mushroom#classification
-http://www.ikonet.com/en/visualdictionary/static/us/edible_mushrooms#:~:text=There%20are%20over%2050%2C000%20species,used%20for%20their%20medicinal%20properties.
-https://www.kaggle.com/uciml/mushroom-classification
-https://seaborn.pydata.org/generated/seaborn.countplot.html#seaborn.countplot
-https://seaborn.pydata.org/tutorial/categorical.html#showing-multiple-relationships-with-facets
-https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_and_donut_labels.html#sphx-glr-gallery-pie-and-polar-charts-pie-and-donut-labels-py
+- https://en.wikipedia.org/wiki/Mushroom#classification
+- http://www.ikonet.com/en/visualdictionary/static/us/edible_mushrooms#:~:text=There%20are%20over%2050%2C000%20species,used%20for%20their%20medicinal%20properties.
+- https://www.kaggle.com/uciml/mushroom-classification
+- https://seaborn.pydata.org/generated/seaborn.countplot.html#seaborn.countplot
+- https://seaborn.pydata.org/tutorial/categorical.html#showing-multiple-relationships-with-facets
+- https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_and_donut_labels.html#sphx-glr-gallery-pie-and-polar-charts-pie-and-donut-labels-py
